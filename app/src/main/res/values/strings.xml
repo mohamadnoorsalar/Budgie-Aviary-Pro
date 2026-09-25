@@ -1,0 +1,203 @@
+<resources>
+    <string name="app_name">مدیریت سالن مرغ عشق</string>
+    <string name="app_name_en">Budgie Aviary Manager</string>
+    <string name="app_tagline">Professional Budgerigar Breeding Facility Management</string>
+
+    <!-- Navigation & Modules -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_birds">Birds</string>
+    <string name="nav_pairs">Pairs</string>
+    <string name="nav_cages">Cages &amp; Aviary</string>
+    <string name="nav_reproduction">Reproduction</string>
+    <string name="nav_genetics">Genetics</string>
+    <string name="nav_pedigree">Pedigree</string>
+    <string name="nav_health">Health &amp; Care</string>
+    <string name="nav_nutrition">Nutrition</string>
+    <string name="nav_inventory">Inventory</string>
+    <string name="nav_finance">Finance</string>
+    <string name="nav_competitions">Competitions</string>
+    <string name="nav_ai_assistant">AI Assistant</string>
+    <string name="nav_reports">Reports &amp; Analytics</string>
+    <string name="nav_reminders">Reminders</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_help">Help &amp; Guides</string>
+
+    <!-- Module Groups -->
+    <string name="group_core">Core Facility</string>
+    <string name="group_breeding">Breeding &amp; Genetics</string>
+    <string name="group_care">Care &amp; Logistics</string>
+    <string name="group_business">Business &amp; Analytics</string>
+    <string name="group_tools">Tools &amp; System</string>
+
+    <!-- Common Actions -->
+    <string name="action_add">Add</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_search">Search…</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_view_all">View All</string>
+    <string name="action_details">Details</string>
+    <string name="action_switch_language">Switch Language</string>
+    <string name="action_toggle_theme">Toggle Theme</string>
+
+    <!-- Statuses -->
+    <string name="status_active">Active</string>
+    <string name="status_breeding">Breeding</string>
+    <string name="status_resting">Resting</string>
+    <string name="status_quarantine">Quarantine</string>
+    <string name="status_sold">Sold</string>
+    <string name="status_deceased">Deceased</string>
+
+    <!-- Gender -->
+    <string name="gender_male">Male (Cock)</string>
+    <string name="gender_female">Female (Hen)</string>
+    <string name="gender_unknown">Unknown</string>
+
+    <!-- Empty States -->
+    <string name="empty_birds_title">No Birds Registered Yet</string>
+    <string name="empty_birds_desc">Begin by adding your breeding stock with ring numbers, mutations, and cage assignments.</string>
+    <string name="empty_pairs_title">No Active Pairs</string>
+    <string name="empty_pairs_desc">Pair up selected cocks and hens to start tracking clutches, incubation, and offspring.</string>
+    <string name="empty_cages_title">No Cages Configured</string>
+    <string name="empty_cages_desc">Configure your breeding boxes, flight cages, and stock aviaries to manage occupancy.</string>
+    <string name="empty_reproduction_title">No Active Clutches</string>
+    <string name="empty_reproduction_desc">Clutches and egg logs will appear here once pairs begin laying.</string>
+    <string name="empty_health_title">All Healthy</string>
+    <string name="empty_health_desc">No active medical records or quarantine cases in your aviary.</string>
+    <string name="empty_reminders_title">No Pending Reminders</string>
+    <string name="empty_reminders_desc">You are up to date! Add reminders for banding, egg candling, or cleaning.</string>
+
+    <!-- Dashboard & Metrics -->
+    <string name="stat_total_birds">Total Birds</string>
+    <string name="stat_active_pairs">Active Pairs</string>
+    <string name="stat_cages">Cages &amp; Boxes</string>
+    <string name="stat_eggs_in_nest">Eggs in Nest</string>
+    <string name="stat_chicks_hatched">Chicks Hatched</string>
+    <string name="facility_status">Facility Status</string>
+    <string name="facility_healthy">Optimal Condition</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="recent_activity">Recent Facility Activity</string>
+    <string name="no_recent_activity">System initialized and ready for activity.</string>
+    <string name="todays_tasks">Today\'s Tasks &amp; Reminders</string>
+    <string name="no_tasks_today">No tasks due today. All systems operational.</string>
+    <string name="upcoming_hatch_dates">Upcoming Hatch Dates</string>
+    <string name="no_upcoming_hatches">No active eggs pending hatch.</string>
+    <string name="medication_reminders">Active Medications &amp; Care</string>
+    <string name="no_active_medications">No active medication treatments.</string>
+    <string name="low_inventory_alerts">Low Inventory Alerts</string>
+    <string name="no_inventory_alerts">All inventory levels are sufficient.</string>
+    <string name="financial_summary">Financial Summary</string>
+    <string name="income_label">Total Income</string>
+    <string name="expense_label">Total Expenses</string>
+    <string name="net_balance_label">Net Balance</string>
+    <string name="currency_unit">USD</string>
+    <string name="days_remaining_fmt">%d days left</string>
+    <string name="due_today">Due Today!</string>
+    <string name="stock_units_fmt">Stock: %1$.1f %2$s (Min: %3$.1f)</string>
+
+    <!-- Quick Action Labels -->
+    <string name="action_add_bird">Add Bird</string>
+    <string name="action_add_pair">Add Pair</string>
+    <string name="action_add_egg">Add Egg</string>
+    <string name="action_add_chick">Add Chick</string>
+    <string name="action_record_weight">Record Weight</string>
+    <string name="action_record_feeding">Record Feeding</string>
+    <string name="action_record_medication">Record Medication</string>
+    <string name="action_scan_qr">Scan QR</string>
+    <string name="quick_action_success">Record successfully added to aviary database.</string>
+
+    <!-- Settings & Localization -->
+    <string name="settings_language">Language</string>
+    <string name="settings_language_fa">فارسی (Persian - RTL)</string>
+    <string name="settings_language_en">English (LTR)</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_dark_mode">Dark Mode</string>
+    <string name="settings_aviary_profile">Aviary Profile</string>
+    <string name="settings_data_management">Data &amp; Backup</string>
+    <string name="settings_export_backup">Export Local Backup</string>
+    <string name="settings_about">About &amp; Architecture</string>
+    <string name="foundation_notice">Architecture Foundation: Phase 1 initialized. Scalable Room persistence, RTL/LTR engine, and navigation ready.</string>
+
+    <!-- Bird Module Details & Sections -->
+    <string name="bird_detail_title">Bird Profile</string>
+    <string name="bird_edit_title">Edit Bird</string>
+    <string name="bird_tab_overview">Overview</string>
+    <string name="bird_tab_gallery">Photos</string>
+    <string name="bird_tab_weights">Weights</string>
+    <string name="bird_tab_health">Health</string>
+    <string name="bird_tab_breeding">Breeding</string>
+    <string name="bird_tab_genetics">Genetics</string>
+    <string name="bird_tab_pedigree">Pedigree</string>
+    <string name="bird_tab_competitions">Competitions</string>
+    <string name="bird_tab_cage">Cage</string>
+    <string name="bird_tab_finances">Finances</string>
+    <string name="bird_tab_qrcode">QR Code</string>
+    <string name="bird_action_export_pdf">Export PDF</string>
+    <string name="bird_place_of_birth">Place of Birth</string>
+    <string name="bird_generation">Generation</string>
+    <string name="bird_status_active">Active</string>
+    <string name="bird_status_breeding">In Breeding</string>
+    <string name="bird_status_sold">Sold</string>
+    <string name="bird_status_deceased">Deceased</string>
+    <string name="bird_parents">Parents</string>
+    <string name="bird_grandparents">Grandparents</string>
+    <string name="bird_children">Offspring / Children</string>
+    <string name="bird_current_pair">Current Breeding Pair</string>
+    <string name="bird_previous_pairs">Previous Pairs</string>
+    <string name="bird_filter_all">All</string>
+    <string name="bird_filter_male">Male</string>
+    <string name="bird_filter_female">Female</string>
+    <string name="bird_save_success">Bird profile successfully saved.</string>
+    <string name="bird_delete_confirm">Are you sure you want to delete this bird record?</string>
+    <string name="bird_pdf_generated">Official Pedigree Certificate PDF generated successfully.</string>
+    <string name="bird_pdf_failed">Failed to generate PDF document.</string>
+    <string name="bird_share_pdf">Share Certificate PDF</string>
+    <string name="bird_add_photo">Add Photo</string>
+    <string name="bird_add_weight">Record Weight</string>
+    <string name="bird_add_health">Add Health Record</string>
+    <string name="bird_inbreeding_coeff">Inbreeding Coefficient</string>
+    <string name="bird_breeder_name">Breeder Name</string>
+    <string name="bird_breeder_code">Breeder Ring Code</string>
+    <string name="bird_qr_hint">Scan this QR code with any mobile scanner to instantly verify and view this bird\'s ring details.</string>
+
+    <!-- Reproduction Module -->
+    <string name="reproduction_title">Breeding &amp; Reproduction</string>
+    <string name="reproduction_tab_clutches">Pairs &amp; Clutches</string>
+    <string name="reproduction_tab_eggs">Egg Registry</string>
+    <string name="reproduction_tab_chicks">Chick Nursery</string>
+    <string name="reproduction_tab_nests">Nest Boxes</string>
+    <string name="reproduction_tab_timeline">Timelines &amp; Reminders</string>
+    <string name="reproduction_mating_date">Mating Date</string>
+    <string name="reproduction_lay_date">Lay Date</string>
+    <string name="reproduction_expected_hatch">Expected Hatch</string>
+    <string name="reproduction_actual_hatch">Actual Hatch</string>
+    <string name="reproduction_egg_number">Egg #%d</string>
+    <string name="reproduction_fertility_status">Fertility Status</string>
+    <string name="reproduction_egg_result">Egg Result</string>
+    <string name="reproduction_action_candle">Candle Egg</string>
+    <string name="reproduction_action_hatch">Hatch Egg</string>
+    <string name="reproduction_action_weight">Log Weight</string>
+    <string name="reproduction_action_transfer">Transfer Cage</string>
+    <string name="reproduction_action_mortality">Record Mortality</string>
+    <string name="reproduction_action_register_bird">Register as Bird</string>
+    <string name="reproduction_sync_reminders">Sync to System Reminders</string>
+    <string name="reproduction_chick_id">Chick ID / Band</string>
+    <string name="reproduction_age_days">%d days old</string>
+    <string name="reproduction_stat_fertile_rate">Fertility Rate</string>
+    <string name="reproduction_stat_hatch_rate">Hatch Rate</string>
+    <string name="reproduction_stat_total_eggs">Total Eggs</string>
+    <string name="reproduction_stat_chicks">Active Chicks</string>
+    <string name="reproduction_stat_mortality">Mortalities</string>
+    <string name="reproduction_nest_material">Nest Material</string>
+    <string name="reproduction_clean_status">Clean Status</string>
+    <string name="reproduction_clutch_number">Clutch #%d</string>
+
+    <!-- Security & Permissions -->
+    <string name="nav_security">Security &amp; Permissions</string>
+    <string name="nav_audit_log">Security Audit Log</string>
+    <string name="nav_backup_restore">Backup, Restore &amp; Sync</string>
+    <string name="nav_sync_conflicts">Sync Conflicts</string>
+</resources>

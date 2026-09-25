@@ -1,0 +1,203 @@
+<resources>
+    <string name="app_name">مدیریت سالن مرغ عشق</string>
+    <string name="app_name_en">Budgie Aviary Manager</string>
+    <string name="app_tagline">سامانه جامع و تخصصی مدیریت سالن پرورش و تکثیر مرغ عشق</string>
+
+    <!-- Navigation & Modules -->
+    <string name="nav_dashboard">داشبورد</string>
+    <string name="nav_birds">پرنده‌ها</string>
+    <string name="nav_pairs">جفت‌ها</string>
+    <string name="nav_cages">قفس‌ها و باکس‌ها</string>
+    <string name="nav_reproduction">تولید مثل و تکثیر</string>
+    <string name="nav_genetics">ژنتیک و جهش‌ها</string>
+    <string name="nav_pedigree">شجره‌نامه</string>
+    <string name="nav_health">سلامت و درمان</string>
+    <string name="nav_nutrition">تغذیه و جیره‌ها</string>
+    <string name="nav_inventory">انبار و ملزومات</string>
+    <string name="nav_finance">حسابداری و مالی</string>
+    <string name="nav_competitions">مسابقات و استانداردها</string>
+    <string name="nav_ai_assistant">دستیار هوشمند سالن</string>
+    <string name="nav_reports">گزارش‌ها و آمار</string>
+    <string name="nav_reminders">یادآورها و وظایف</string>
+    <string name="nav_settings">تنظیمات</string>
+    <string name="nav_help">راهنما و آموزش</string>
+
+    <!-- Module Groups -->
+    <string name="group_core">بخش اصلی سالن</string>
+    <string name="group_breeding">تکثیر و ژنتیک</string>
+    <string name="group_care">مراقبت و لجستیک</string>
+    <string name="group_business">کسب‌وکار و آمار</string>
+    <string name="group_tools">ابزارها و سیستم</string>
+
+    <!-- Common Actions -->
+    <string name="action_add">افزودن</string>
+    <string name="action_save">ذخیره</string>
+    <string name="action_cancel">انصراف</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_edit">ویرایش</string>
+    <string name="action_search">جستجو…</string>
+    <string name="action_filter">فیلتر</string>
+    <string name="action_refresh">تازه‌سازی</string>
+    <string name="action_view_all">مشاهده همه</string>
+    <string name="action_details">جزئیات</string>
+    <string name="action_switch_language">تغییر زبان</string>
+    <string name="action_toggle_theme">تغییر پوسته</string>
+
+    <!-- Statuses -->
+    <string name="status_active">فعال</string>
+    <string name="status_breeding">در حال جفت‌گیری</string>
+    <string name="status_resting">استراحت</string>
+    <string name="status_quarantine">قرنطینه</string>
+    <string name="status_sold">فروخته شده</string>
+    <string name="status_deceased">تلف شده</string>
+
+    <!-- Gender -->
+    <string name="gender_male">نر</string>
+    <string name="gender_female">ماده</string>
+    <string name="gender_unknown">نامشخص</string>
+
+    <!-- Empty States -->
+    <string name="empty_birds_title">هنوز پرنده‌ای ثبت نشده است</string>
+    <string name="empty_birds_desc">با ثبت شماره حلقه، جهش رنگی و اختصاص قفس، ثبت مولدین خود را آغاز کنید.</string>
+    <string name="empty_pairs_title">جفت فعالی ثبت نشده است</string>
+    <string name="empty_pairs_desc">با جفت‌اندازی پرنده‌های نر و ماده، چرخه‌های تخم‌گذاری و جوجه‌ها را ثبت کنید.</string>
+    <string name="empty_cages_title">قفسی تعریف نشده است</string>
+    <string name="empty_cages_desc">باکس‌های جوجه‌کشی، قفس‌های پران و سالن‌ها را جهت مدیریت ظرفیت ثبت نمایید.</string>
+    <string name="empty_reproduction_title">دوره تکثیر فعالی وجود ندارد</string>
+    <string name="empty_reproduction_desc">اطلاعات لانه‌ها، تعداد تخم‌ها و تاریخ‌های هچ پس از تخم‌گذاری نمایش می‌یابد.</string>
+    <string name="empty_health_title">وضعیت سلامت عمومی مطلوب است</string>
+    <string name="empty_health_desc">هیچ پرونده بیماری یا مورد قرنطینه در حال حاضر ثبت نشده است.</string>
+    <string name="empty_reminders_title">یادآور در انتظاری وجود ندارد</string>
+    <string name="empty_reminders_desc">همه وظایف انجام شده است! برای نطفه‌سنجی، حلقه‌گذاری یا نظافت یادآور جدید بسازید.</string>
+
+    <!-- Dashboard & Metrics -->
+    <string name="stat_total_birds">تعداد پرندگان</string>
+    <string name="stat_active_pairs">جفت‌های مولد</string>
+    <string name="stat_cages">قفس‌ها و باکس‌ها</string>
+    <string name="stat_eggs_in_nest">تخم‌های فعال در لانه</string>
+    <string name="stat_chicks_hatched">جوجه‌های هچ شده</string>
+    <string name="facility_status">وضعیت سالن</string>
+    <string name="facility_healthy">شرایط مطلوب و آماده</string>
+    <string name="quick_actions">عملیات سریع</string>
+    <string name="recent_activity">رویدادهای اخیر سالن</string>
+    <string name="no_recent_activity">پایگاه داده سالن آماده ثبت رکوردهای جدید می‌باشد.</string>
+    <string name="todays_tasks">وظایف و یادآورهای امروز</string>
+    <string name="no_tasks_today">یادآور معوقه‌ای برای امروز وجود ندارد.</string>
+    <string name="upcoming_hatch_dates">تاریخ‌های پیش‌بینی هچ</string>
+    <string name="no_upcoming_hatches">تخم فعالی در انتظار هچ ثبت نشده است.</string>
+    <string name="medication_reminders">درمان‌های دارویی فعال</string>
+    <string name="no_active_medications">هیچ درمان دارویی فعالی در حال حاضر وجود ندارد.</string>
+    <string name="low_inventory_alerts">هشدار کمبود موجودی انبار</string>
+    <string name="no_inventory_alerts">موجودی کلیه اقلام در حد مطلوب است.</string>
+    <string name="financial_summary">خلاصه مالی و حسابداری</string>
+    <string name="income_label">کل درآمدها</string>
+    <string name="expense_label">کل هزینه‌ها</string>
+    <string name="net_balance_label">تراز مالی سالن</string>
+    <string name="currency_unit">تومان</string>
+    <string name="days_remaining_fmt">%d روز مانده</string>
+    <string name="due_today">موعد امروز!</string>
+    <string name="stock_units_fmt">موجودی: %1$.1f %2$s (حداقل: %3$.1f)</string>
+
+    <!-- Quick Action Labels -->
+    <string name="action_add_bird">افزودن پرنده</string>
+    <string name="action_add_pair">تشکیل جفت</string>
+    <string name="action_add_egg">ثبت تخم</string>
+    <string name="action_add_chick">ثبت جوجه</string>
+    <string name="action_record_weight">ثبت وزن</string>
+    <string name="action_record_feeding">ثبت تغذیه</string>
+    <string name="action_record_medication">ثبت دارو</string>
+    <string name="action_scan_qr">اسکن بارکد</string>
+    <string name="quick_action_success">اطلاعات با موفقیت در پایگاه داده سالن ذخیره شد.</string>
+
+    <!-- Settings & Localization -->
+    <string name="settings_language">زبان برنامه</string>
+    <string name="settings_language_fa">فارسی (Persian - RTL)</string>
+    <string name="settings_language_en">انگلیسی (English - LTR)</string>
+    <string name="settings_appearance">ظاهر و پوسته</string>
+    <string name="settings_dark_mode">حالت شب</string>
+    <string name="settings_aviary_profile">مشخصات سالن پرورش</string>
+    <string name="settings_data_management">مدیریت داده و پشتیبان‌گیری</string>
+    <string name="settings_export_backup">خروجی پشتیبان پایگاه داده</string>
+    <string name="settings_about">درباره و ساختار فنی</string>
+    <string name="foundation_notice">پایه‌ریزی معماری فاز اول: پایگاه داده محلی Room، سیستم دو زبانه RTL/LTR و ناوبری تمام ۱۷ بخش آماده توسعه است.</string>
+
+    <!-- Bird Module Details & Sections -->
+    <string name="bird_detail_title">شناسنامه و پروفایل پرنده</string>
+    <string name="bird_edit_title">ویرایش مشخصات پرنده</string>
+    <string name="bird_tab_overview">اطلاعات کلی</string>
+    <string name="bird_tab_gallery">تصاویر</string>
+    <string name="bird_tab_weights">وزن‌کشی</string>
+    <string name="bird_tab_health">سلامت و دارو</string>
+    <string name="bird_tab_breeding">تکثیر و جفت</string>
+    <string name="bird_tab_genetics">ژنتیک</string>
+    <string name="bird_tab_pedigree">شجره‌نامه</string>
+    <string name="bird_tab_competitions">مسابقات</string>
+    <string name="bird_tab_cage">قفس و جایگاه</string>
+    <string name="bird_tab_finances">مالی</string>
+    <string name="bird_tab_qrcode">کد QR</string>
+    <string name="bird_action_export_pdf">خروجی PDF</string>
+    <string name="bird_place_of_birth">محل تولد</string>
+    <string name="bird_generation">نسل</string>
+    <string name="bird_status_active">فعال</string>
+    <string name="bird_status_breeding">در حال جفت‌گیری</string>
+    <string name="bird_status_sold">فروخته شده</string>
+    <string name="bird_status_deceased">تلف شده</string>
+    <string name="bird_parents">والدین</string>
+    <string name="bird_grandparents">اجداد</string>
+    <string name="bird_children">فرزندان و نوچه‌ها</string>
+    <string name="bird_current_pair">جفت فعلی</string>
+    <string name="bird_previous_pairs">جفت‌های قبلی</string>
+    <string name="bird_filter_all">همه</string>
+    <string name="bird_filter_male">نر</string>
+    <string name="bird_filter_female">ماده</string>
+    <string name="bird_save_success">اطلاعات پرنده با موفقیت ذخیره شد.</string>
+    <string name="bird_delete_confirm">آیا از حذف این پرنده اطمینان دارید؟</string>
+    <string name="bird_pdf_generated">گواهی و شجره‌نامه رسمی PDF با موفقیت ایجاد شد.</string>
+    <string name="bird_pdf_failed">خطا در تولید فایل PDF.</string>
+    <string name="bird_share_pdf">اشتراک‌گذاری گواهی PDF</string>
+    <string name="bird_add_photo">افزودن تصویر</string>
+    <string name="bird_add_weight">ثبت وزن جدید</string>
+    <string name="bird_add_health">ثبت گزارش درمانی</string>
+    <string name="bird_inbreeding_coeff">ضریب هم‌خونی (Inbreeding)</string>
+    <string name="bird_breeder_name">نام پرورش‌دهنده</string>
+    <string name="bird_breeder_code">کد حلقه پرورش‌دهنده</string>
+    <string name="bird_qr_hint">با دوربین یا اسکنر موبایل این کد QR را اسکن کنید تا مشخصات شناسنامه‌ای حلقه نمایش داده شود.</string>
+
+    <!-- Reproduction Module -->
+    <string name="reproduction_title">تولید مثل و تکثیر</string>
+    <string name="reproduction_tab_clutches">جفت‌ها و دوره‌ها</string>
+    <string name="reproduction_tab_eggs">دفترچه تخم‌ها</string>
+    <string name="reproduction_tab_chicks">مهد جوجه‌ها</string>
+    <string name="reproduction_tab_nests">لانه‌ها و جعبه‌ها</string>
+    <string name="reproduction_tab_timeline">زمان‌بندی و یادآورها</string>
+    <string name="reproduction_mating_date">تاریخ جفت‌گیری</string>
+    <string name="reproduction_lay_date">تاریخ تخم‌گذاری</string>
+    <string name="reproduction_expected_hatch">تاریخ تخمینی هچ</string>
+    <string name="reproduction_actual_hatch">تاریخ واقعی هچ</string>
+    <string name="reproduction_egg_number">تخم شماره %d</string>
+    <string name="reproduction_fertility_status">وضعیت نطفه‌داری</string>
+    <string name="reproduction_egg_result">نتیجه تخم</string>
+    <string name="reproduction_action_candle">کندلینگ (نطفه‌سنجی)</string>
+    <string name="reproduction_action_hatch">ثبت تولد (هچ)</string>
+    <string name="reproduction_action_weight">ثبت وزن</string>
+    <string name="reproduction_action_transfer">انتقال قفس</string>
+    <string name="reproduction_action_mortality">ثبت تلفات</string>
+    <string name="reproduction_action_register_bird">ثبت در پرنده‌ها</string>
+    <string name="reproduction_sync_reminders">همگام‌سازی یادآورها</string>
+    <string name="reproduction_chick_id">شناسه جوجه / حلقه</string>
+    <string name="reproduction_age_days">%d روزه</string>
+    <string name="reproduction_stat_fertile_rate">درصد نطفه‌داری</string>
+    <string name="reproduction_stat_hatch_rate">درصد هچ</string>
+    <string name="reproduction_stat_total_eggs">کل تخم‌ها</string>
+    <string name="reproduction_stat_chicks">جوجه‌های فعال</string>
+    <string name="reproduction_stat_mortality">تلفات</string>
+    <string name="reproduction_nest_material">پوشال / متریال لانه</string>
+    <string name="reproduction_clean_status">وضعیت نظافت</string>
+    <string name="reproduction_clutch_number">دوره شماره %d</string>
+
+    <!-- Security, Backup, Sync & Conflicts -->
+    <string name="nav_security">امنیت و سطوح دسترسی</string>
+    <string name="nav_audit_log">لاگ و ثبت رویدادهای امنیتی</string>
+    <string name="nav_backup_restore">پشتیبان‌گیری، بازیابی و همگام‌سازی</string>
+    <string name="nav_sync_conflicts">تداخلات همگام‌سازی</string>
+</resources>

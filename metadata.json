@@ -1,0 +1,6 @@
+{
+  "name": "مدیریت سالن مرغ عشق",
+  "description": "سامانه مدیریت سالن پرورش و تکثیر مرغ عشق / Professional Budgerigar Aviary Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
